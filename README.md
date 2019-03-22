@@ -5,12 +5,8 @@ SQL, sqlite, Python 3, SQL Alchemy, DateTime, Numpy, Pandas, Flask, HTML
 
 # Goals
 
+
 # Findings
-
-![x](Images/image21.png)
-
-
-Analysis
 
 ![x](Images/precipitation.png)
 
@@ -21,6 +17,10 @@ Analysis
 ![x](Images/TripAvgTemp.png)
 
 ![x](Images/daily_normals.png)
+
+# Delivered Product
+
+![x](Images/image21.png)
 
 
 
