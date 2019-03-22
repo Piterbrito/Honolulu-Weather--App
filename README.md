@@ -7,6 +7,11 @@ SQL, sqlite, Python 3, SQL Alchemy, DateTime, Numpy, Pandas, Flask, HTML
 
 # Findings
 
+![x](Images/image21.png)
+
+
+Analysis
+
 ![x](Images/precipitation.png)
 
 ![x](Images/describe.png)
