@@ -1,5 +1,6 @@
 # API-Honolulu-Weather
-SQL, sqlite, Python 3, SQL Alchemy, DateTime, Numpy, Pandas, Flask, HTML
+
+Project
 
 # Background
  Honolulu, Hawaii! To help with your trip planning, you need to do some climate analysis on the area.
@@ -133,7 +134,7 @@ When given the start and the end date, calculate the TMIN, TAVG, and TMAX for da
 
 # Run Locally
 
-Run this command git clone https://github.com/Piterbrito/Honolulu-Weather--myAPI/
+Run this command git clone https://github.com/Piterbrito/Honolulu-Weather--App/
 
 
 Make sure you have installed in your computer all libraries used above 
